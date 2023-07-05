@@ -1,0 +1,146 @@
+@import 'nouislider/dist/nouislider.css';
+
+.filters {
+  &__container {
+    padding: 0px 15px 15px 15px;
+    display: flex;
+    flex-direction: column;
+    min-width: 240px;
+    gap: 12px;
+  }
+
+  &__title {
+    font-size: 18px;
+  }
+
+  &__subtitle {
+    font-size: 14px;
+  }
+
+  &__group {
+    display: grid;
+    grid-template-columns: repeat(3, 4fr);
+    gap: 5px;
+  }
+}
+
+.filter__item {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 10px;
+  transition: .3s;
+
+
+  &-label {
+    &:hover {
+      cursor: pointer;
+      transition: .3s;
+    }
+  }
+
+  &-input {
+    &:hover {
+      cursor: pointer;
+      transition: .3s;
+    }
+  }
+}
+
+.filter-buttons {
+  display: flex;
+  justify-content: space-between;
+
+  &__item {
+    padding: 5px;
+    background: #FFFFFF;
+    border: 1px solid #CACDD8;
+    border-radius: 2px;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 210%;
+    display: flex;
+    align-items: center;
+    color: #000000;
+    transition: .3s;
+
+    &:hover {
+      cursor: pointer;
+      border-color: #a3a4a7;
+      transition: .3s;
+    }
+  }
+}
+
+// Slider range year
+.range-slider-year,
+.range-slider-quantity {
+  margin: 5px 0px 20px 0px;
+}
+
+.noUi-target {
+  background-color: #eef0f7;
+}
+
+.noUi-horizontal {
+  height: 5px;
+}
+
+.noUi-connect {
+  background-color: #0156FF;
+}
+
+.noUi-handle.noUi-handle-lower {
+  width: 15px;
+  height: 15px;
+  right: -8px;
+  top: -6px;
+  border-radius: 50%;
+}
+
+.noUi-handle.noUi-handle-upper {
+  width: 15px;
+  height: 15px;
+  right: -8px;
+  top: -6px;
+  border-radius: 50%;
+}
+
+.noUi-handle::before,
+.noUi-handle::after {
+  display: none;
+}
+
+.noUi-horizontal .noUi-tooltip {
+  left: 50%;
+  bottom: -142%;
+  padding: 0;
+  border: none;
+  background-color: transparent;
+}
+
+
+@media (max-width: 1000px) {
+  .filters {
+    &__group {
+      display: grid;
+      grid-template-columns: repeat(2, 6fr);
+      gap: 5px;
+    }
+  }
+}
+
+@media (max-width: 500px) {
+  .filters {
+    &__container {
+      min-width: auto;
+    }
+
+    &__group {
+      display: grid;
+      grid-template-columns: repeat(1, 12fr);
+      gap: 5px;
+    }
+  }
+}

@@ -1,0 +1,2000 @@
+[
+  {
+    "id": 0,
+    "brand": "Asus",
+    "category": "Laptop",
+    "title": "Ноутбук Asus L210MA-GJ243T, Intel Celeron N4020 (1.1 ГГц), RAM 4 ГБ, eMMC 128 ГБ, Intel UHD Graphics 600, Windows Home, (90NB0R41-M09020), синий",
+    "description": {
+      "Процессор: ": "Intel Celeron N4020 (1.1 ГГц)",
+      "Оперативная память: ": "4 ГБ",
+      "Общий объем eMMC, ГБ: ": "128",
+      "Видеокарта: ": "Intel UHD Graphics 600",
+      "Операционная система: ": "Windows Home"
+    },
+    "price": 983.7,
+    "year": 2018,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-l/wc250/6260084541.jpg",
+    "count": 4
+  },
+  {
+    "id": 1,
+    "brand": "Lenovo",
+    "category": "Laptop",
+    "title": "Ноутбук Lenovo IdeaPad 1 14IGL05, Intel Celeron N4020 (1.1 ГГц), RAM 4 ГБ, SSD 128 ГБ, Intel UHD Graphics 605, Windows Home, (81VU007XRU), серый",
+    "description": {
+      "Процессор: ": "Intel Celeron N4020 (1.1 ГГц)",
+      "Оперативная память: ": "4 ГБ",
+      "Общий объем SSD, ГБ: ": "128",
+      "Видеокарта: ": "Intel UHD Graphics 605",
+      "Операционная система: ": "Windows Home"
+    },
+    "price": 1150.21,
+    "year": 2019,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-j/wc250/6127326511.jpg",
+    "count": 6
+  },
+  {
+    "id": 2,
+    "brand": "Lenovo",
+    "category": "Laptop",
+    "title": "Ноутбук Lenovo IdeaPad 3 14ITL6, Intel Pentium Gold 7505 (2.0 ГГц), RAM 8 ГБ, SSD 256 ГБ, Intel UHD Graphics, Без системы, (82H7009QRK), серый",
+    "description": {
+      "Процессор: ": "Intel Pentium Gold 7505 (2.0 ГГц)",
+      "Оперативная память: ": "8 ГБ",
+      "Общий объем SSD, ГБ: ": "256",
+      "Видеокарта: ": "Intel UHD Graphics",
+      "Операционная система: ": "Без системы"
+    },
+    "price": 1470.90,
+    "year": 2017,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-f/wc250/6074115303.jpg",
+    "count": 1
+  },
+  {
+    "id": 3,
+    "brand": "IRBIS",
+    "category": "Laptop",
+    "title": "Ноутбук IRBIS NB71, Intel Atom Z3735F (1.33 ГГц), RAM 2 ГБ, eMMC 32 ГБ, Intel HD Graphics, Windows Home, (NB76), белый",
+    "description": {
+      "Процессор: ": "Intel Atom Z3735F (1.33 ГГц)",
+      "Оперативная память: ": "2 ГБ",
+      "Общий объем eMMC, ГБ: ": "32",
+      "Видеокарта: ": "Intel HD Graphics",
+      "Операционная система: ": "Windows Home"
+    },
+    "price": 520.45,
+    "year": 2021,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-0/wc250/6162374076.jpg",
+    "count": 19
+  },
+  {
+    "id": 4,
+    "brand": "Haier",
+    "category": "Laptop",
+    "title": "Ноутбук Haier U1520EM, Intel Celeron N4020 (1.1 ГГц), RAM 4 ГБ, eMMC 64 ГБ, Intel HD Graphics 600, Windows Home, (JM02VSE09RU), серебристый",
+    "description": {
+      "Процессор: ": "Intel Celeron N4020 (1.1 ГГц)",
+      "Оперативная память: ": "4 ГБ",
+      "Общий объем eMMC, ГБ: ": "64",
+      "Видеокарта: ": "Intel HD Graphics 600",
+      "Операционная система: ": "Windows Home"
+    },
+    "price": 932.47,
+    "year": 2017,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-a/wc250/6141818158.jpg",
+    "count": 4
+  },
+  {
+    "id": 5,
+    "brand": "Acer",
+    "category": "Laptop",
+    "title": "Ноутбук Acer Extensa 15 EX215-22-R2BT, AMD Athlon Silver 3050U (2.3 ГГц), RAM 4 ГБ, SSD 128 ГБ, AMD Radeon Graphics, Без системы, (NX.EG9ER.00T)",
+    "description": {
+      "Процессор: ": "AMD Athlon Silver 3050U (2.3 ГГц)",
+      "Оперативная память: ": "4 ГБ",
+      "Общий объем SSD, ГБ: ": "128",
+      "Видеокарта: ": "AMD Radeon Graphics",
+      "Операционная система: ": "Без системы"
+    },
+    "price": 1214.79,
+    "year": 2017,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-6/wc250/6026640582.jpg",
+    "count": 19
+  },
+  {
+    "id": 6,
+    "brand": "Lenovo",
+    "category": "Laptop",
+    "title": "Ноутбук Lenovo IdeaPad 3 17ADA05, AMD Athlon Gold 3150U (2.4 ГГц), RAM 4 ГБ, SSD 128 ГБ, AMD Radeon Graphics, Windows Home, (81W20091RU), серый",
+    "description": {
+      "Процессор: ": "AMD Athlon Gold 3150U (2.4 ГГц)",
+      "Оперативная память: ": "4 ГБ",
+      "Общий объем SSD, ГБ: ": "128",
+      "Видеокарта: ": "AMD Radeon Graphics",
+      "Операционная система: ": "Windows Home"
+    },
+    "price": 1572.06,
+    "year": 2021,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-i/wc250/6155684538.jpg",
+    "count": 6
+  },
+  {
+    "id": 7,
+    "brand": "Echips",
+    "category": "Laptop",
+    "title": "Ноутбук Echips Lite, HD 1366х768, 240Gb, Intel Celeron J4005 (2.0 ГГц), RAM 8 ГБ, SSD, Intel HD Graphics 600, Windows Pro",
+    "description": {
+      "Процессор: ": "Intel Celeron J4005 (2.0 ГГц)",
+      "Оперативная память: ": "8 ГБ",
+      "Общий объем SSD, ГБ: ": "240",
+      "Видеокарта: ": "Intel HD Graphics 600",
+      "Операционная система: ": "Windows Pro"
+    },
+    "price": 1420.69,
+    "year": 2018,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-a/wc250/6255363850.jpg",
+    "count": 1
+  },
+  {
+    "id": 8,
+    "brand": "Echips",
+    "category": "Laptop",
+    "title": "Ноутбук Echips Like, FHD 1920x1080, Intel Celeron J3455 (1.5 ГГц), RAM 8 ГБ, eMMC, SSD 120 ГБ, Intel HD Graphics 500, Windows Home",
+    "description": {
+      "Процессор: ": "Intel Celeron J3455 (1.5 ГГц)",
+      "Оперативная память: ": "8 ГБ",
+      "Общий объем SSD, ГБ: ": "248",
+      "Общий объем eMMC, ГБ: ": "128",
+      "Видеокарта: ": "Intel HD Graphics 500"
+    },
+    "price": 1678.72,
+    "year": 2021,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-v/wc250/6255408727.jpg",
+    "count": 1
+  },
+  {
+    "id": 9,
+    "brand": "Poco",
+    "category": "Smartphone",
+    "title": "Смартфон Poco F3 6/128GB, серебристый",
+    "description": {
+      "Тип: ": "Смартфон",
+      "Диагональ экрана, дюймы: ": "6.67",
+      "Емкость аккумулятора, мАч: ": "4520",
+      "Процессор: ": "Snapdragon 870 (8 ядер), 3.2 ГГц",
+      "Основной материал корпуса: ": "Стекло"
+    },
+    "price": 2213.47,
+    "year": 2021,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-0/c250/6076061412.jpg",
+    "count": 7
+  },
+  {
+    "id": 10,
+    "brand": "realme",
+    "category": "Smartphone",
+    "title": "Смартфон realme narzo 50i 2/32GB, черный",
+    "description": {
+      "Тип: ": "Смартфон",
+      "Диагональ экрана, дюймы: ": "6.5",
+      "Емкость аккумулятора, мАч: ": "5000",
+      "Процессор: ": "SC9863A (8 ядер), 1.6 ГГц",
+      "Основной материал корпуса: ": "Пластик"
+    },
+    "price": 349.97,
+    "year": 2017,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-1/c250/6267878017.jpg",
+    "count": 6
+  },
+  {
+    "id": 11,
+    "brand": "ZTE",
+    "category": "Smartphone",
+    "title": "Смартфон ZTE Blade L9 1/32GB, синий",
+    "description": {
+      "Тип: ": "Смартфон",
+      "Диагональ экрана, дюймы: ": "5",
+      "Емкость аккумулятора, мАч: ": "2000",
+      "Процессор: ": "SC7731E (4 ядра), 1.3 ГГц",
+      "Основной материал корпуса: ": "Пластик"
+    },
+    "price": 218.08,
+    "year": 2018,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-1/c250/6273969685.jpg",
+    "count": 6
+  },
+  {
+    "id": 12,
+    "brand": "realme",
+    "category": "Smartphone",
+    "title": "Смартфон realme C25S 4/64GB, серый",
+    "description": {
+      "Тип: ": "Смартфон",
+      "Диагональ экрана, дюймы: ": "6.5",
+      "Емкость аккумулятора, мАч: ": "6000",
+      "Процессор: ": "Helio G85 (8 ядер), 2.0 ГГц",
+      "Основной материал корпуса: ": "Пластик"
+    },
+    "price": 597.79,
+    "year": 2019,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-y/c250/6139525522.jpg",
+    "count": 19
+  },
+  {
+    "id": 13,
+    "brand": "Xiaomi",
+    "category": "Smartphone",
+    "title": "Смартфон Xiaomi Redmi 9A 2/32GB, зеленый",
+    "description": {
+      "Тип: ": "Смартфон",
+      "Диагональ экрана, дюймы: ": "6.53",
+      "Емкость аккумулятора, мАч: ": "5000",
+      "Процессор: ": "Helio G25 (8 ядер), 2.0 ГГц",
+      "Основной материал корпуса: ": "Пластик"
+    },
+    "price": 404.83,
+    "year": 2020,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-3/c250/6019317963.jpg",
+    "count": 4
+  },
+  {
+    "id": 14,
+    "brand": "Vivo",
+    "category": "Smartphone",
+    "title": "Смартфон Vivo Y21 4/64GB, синий",
+    "description": {
+      "Тип: ": "Смартфон",
+      "Диагональ экрана, дюймы: ": "6.51",
+      "Емкость аккумулятора, мАч: ": "5000",
+      "Основной материал корпуса: ": "Пластик",
+      "Беспроводные интерфейсы: ": "Bluetooth, NFC, Wi-Fi"
+    },
+    "price": 597.79,
+    "year": 2017,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-c/c250/6239851884.jpg",
+    "count": 1
+  },
+  {
+    "id": 15,
+    "brand": "realme",
+    "category": "Smartphone",
+    "title": "Смартфон realme C21Y 3/32GB, черный",
+    "description": {
+      "Тип: ": "Смартфон",
+      "Диагональ экрана, дюймы: ": "6.5",
+      "Емкость аккумулятора, мАч: ": "5000",
+      "Процессор: ": "T610 (8 ядер), 1.8 ГГц",
+      "Основной материал корпуса: ": "Пластик"
+    },
+    "price": 410.16,
+    "year": 2019,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-y/c250/6132871498.jpg",
+    "count": 18
+  },
+  {
+    "id": 17,
+    "brand": "Poco",
+    "category": "Smartphone",
+    "title": "Смартфон Poco X3 Pro 8/256GB, синий",
+    "description": {
+      "Тип: ": "Смартфон",
+      "Диагональ экрана, дюймы: ": "6.67",
+      "Емкость аккумулятора, мАч: ": "5160",
+      "Процессор: ": "Snapdragon 860 (8 ядер), 2.96 ГГц",
+      "Основной материал корпуса: ": "Пластик"
+    },
+    "price": 1789.42,
+    "year": 2020,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-f/c250/6057261471.jpg",
+    "count": 6
+  },
+  {
+    "id": 19,
+    "brand": "Samsung",
+    "category": "TV",
+    "title": " Телевизор Samsung 50\"",
+    "description": {
+      "Диагональ экрана, дюймы: ": "50",
+      "Тип: ": "Телевизор",
+      "Разрешение: ": "3840x2160 4K UHD",
+      "Smart TV: ": "Да",
+      "Тип подсветки: ": "Direct LED"
+    },
+    "price": 3168.87,
+    "year": 2018,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-w/wc250/6271462964.jpg",
+    "count": 1
+  },
+  {
+    "id": 23,
+    "brand": "Samsung",
+    "category": "TV",
+    "title": "4K UHD Телевизор Samsung UE43AU8000UXRU 43\"",
+    "description": {
+      "Тип: ": "Телевизор",
+      "Диагональ экрана, дюймы: ": "43",
+      "Разрешение: ": "3840x2160 4K UHD",
+      "Smart TV: ": "Да",
+      "Тип подсветки: ": "Direct LED"
+    },
+    "price": 2862.26,
+    "year": 2020,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-4/wc250/6068304352.jpg",
+    "count": 18
+  },
+  {
+    "id": 24,
+    "brand": "Samsung",
+    "category": "TV",
+    "title": "4K UHD Телевизор Samsung UE43AU7540UXRU 43\"",
+    "description": {
+      "Диагональ экрана, дюймы: ": "43",
+      "Тип: ": "Телевизор",
+      "Разрешение: ": "3840x2160 4K UHD",
+      "Smart TV: ": "Да",
+      "Тип подсветки: ": "Edge LED"
+    },
+    "price": 2392.51,
+    "year": 2018,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-c/wc250/6064893432.jpg",
+    "count": 1
+  },
+  {
+    "id": 26,
+    "brand": "Horizont",
+    "category": "TV",
+    "title": " Телевизор Horizont 32\"",
+    "description": {
+      "Тип: ": "Телевизор",
+      "Диагональ экрана, дюймы: ": "32",
+      "Разрешение: ": "1366x768 HD",
+      "Smart TV: ": "Нет",
+      "Тип подсветки: ": "Direct LED"
+    },
+    "price": 1014.50,
+    "year": 2020,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-q/wc250/6213069662.jpg",
+    "count": 6
+  },
+  {
+    "id": 27,
+    "brand": "Horizont",
+    "category": "TV",
+    "title": "HD Телевизор Horizont 24\"",
+    "description": {
+      "Диагональ экрана, дюймы: ": "24",
+      "Тип: ": "Телевизор",
+      "Разрешение: ": "1366x768 HD",
+      "Smart TV: ": "Нет",
+      "Тип подсветки: ": "Direct LED"
+    },
+    "price": 898.04,
+    "year": 2017,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-2/wc250/6212875094.jpg",
+    "count": 1
+  },
+  {
+    "id": 28,
+    "brand": "KIVI",
+    "category": "TV",
+    "title": " Телевизор KIVI 43U740LB 43\"",
+    "description": {
+      "Диагональ экрана, дюймы: ": "43",
+      "Тип: ": "Телевизор",
+      "Разрешение: ": "3840x2160 4K UHD",
+      "Тип подсветки: ": "Direct LED",
+      "Беспроводные интерфейсы: ": "Wi-Fi"
+    },
+    "price": 2392.51,
+    "year": 2018,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-w/wc250/6212814500.jpg",
+    "count": 18
+  },
+  {
+    "id": 29,
+    "brand": "Acer",
+    "category": "Laptop",
+    "title": "Ноутбук Acer Extensa 15 EX215-32-C (NX.EGNER.008), Intel Celeron N4500 (1.1 ГГц), RAM 4 ГБ, SSD 256 ГБ, Intel UHD Graphics, Windows Home, (NX.EGNER.008), черный",
+    "description": {
+      "Процессор: ": "Intel Celeron N4500 (1.1 ГГц)",
+      "Оперативная память: ": "4 ГБ",
+      "Общий объем SSD, ГБ: ": "256",
+      "Видеокарта: ": "Intel UHD Graphics",
+      "Операционная система: ": "Windows Home"
+    },
+    "price": 1300.62,
+    "year": 2020,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-4/wc250/6150281176.jpg",
+    "count": 6
+  },
+  {
+    "id": 30,
+    "brand": "Acer",
+    "category": "Laptop",
+    "title": "Ноутбук Acer Extensa EX215-32-P0N2, Intel Pentium Silver N6000 (1.1 ГГц), RAM 4 ГБ, SSD 128 ГБ, Intel UHD Graphics, Без системы, (NX.EGNER.004), черный",
+    "description": {
+      "Процессор: ": "Intel Pentium Silver N6000 (1.1 ГГц)",
+      "Оперативная память: ": "4 ГБ",
+      "Общий объем SSD, ГБ: ": "128",
+      "Видеокарта: ": "Intel UHD Graphics",
+      "Операционная система: ": "Без системы"
+    },
+    "price": 1509.39,
+    "year": 2019,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-2/wc250/6148556918.jpg",
+    "count": 6
+  },
+  {
+    "id": 31,
+    "brand": "Acer",
+    "category": "Laptop",
+    "title": "Ноутбук Acer ASPIRE 3 A315-21 (1366x768, AMD A9 1.8 ГГц, RAM 6 ГБ, HDD 1000 ГБ, Win10 Home), черный, AMD A9-9420E (1.8 ГГц), RAM 6 ГБ, HDD 1000 ГБ, AMD Radeon R5, Windows Home",
+    "description": {
+      "Процессор: ": "AMD A9-9420E (1.8 ГГц)",
+      "Оперативная память: ": "6 ГБ",
+      "Общий объем HDD, ГБ: ": "1000",
+      "Видеокарта: ": "AMD Radeon R5",
+      "Операционная система: ": "Windows Home"
+    },
+    "price": 1553.33,
+    "year": 2020,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-n/wc250/6284066015.jpg",
+    "count": 17
+  },
+  {
+    "id": 44,
+    "brand": "Acer",
+    "category": "Laptop",
+    "title": "Ноутбук Acer, Intel Pentium Silver N5030 (1.1 ГГц), RAM 8 ГБ, SSD 256 ГБ, Intel UHD Graphics 605, Без системы, (NX.EFTER.00N)",
+    "description": {
+      "Процессор: ": "Intel Pentium Silver N5030 (1.1 ГГц)",
+      "Оперативная память: ": "8 ГБ",
+      "Общий объем SSD, ГБ: ": "256",
+      "Общий объем HDD, ГБ: ": "0",
+      "Видеокарта: ": "Intel UHD Graphics 605"
+    },
+    "price": 1572.11,
+    "year": 2019,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-h/wc250/6014151041.jpg",
+    "count": 6
+  },
+  {
+    "id": 45,
+    "brand": "Acer",
+    "category": "Laptop",
+    "title": "Ноутбук Acer Extensa 15 EX215-22-R6JD, AMD Athlon Silver 3050U (2.3 ГГц), RAM 8 ГБ, SSD 256 ГБ, AMD Radeon Graphics, Windows Home, (NX.EG9ER.00M)",
+    "description": {
+      "Процессор: ": "AMD Athlon Silver 3050U (2.3 ГГц)",
+      "Оперативная память: ": "8 ГБ",
+      "Общий объем SSD, ГБ: ": "256",
+      "Видеокарта: ": "AMD Radeon Graphics",
+      "Операционная система: ": "Windows Home"
+    },
+    "price": 1616.8,
+    "year": 2019,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-6/wc250/6029889222.jpg",
+    "count": 1
+  },
+  {
+    "id": 46,
+    "brand": "Asus",
+    "category": "Laptop",
+    "title": "Ноутбук ASUS VB E510MA-BQ579W, Intel Pentium Silver N5030 (1.1 ГГц), RAM 4 ГБ, SSD 128 ГБ, Intel UHD Graphics 605, Windows Home, (90NB0Q65-M14810), черный",
+    "description": {
+      "Процессор: ": "Intel Pentium Silver N5030 (1.1 ГГц)",
+      "Оперативная память: ": "4 ГБ",
+      "Общий объем SSD, ГБ: ": "128",
+      "Общий объем HDD, ГБ: ": "0",
+      "Видеокарта: ": "Intel UHD Graphics 605"
+    },
+    "price": 1328.94,
+    "year": 2020,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-d/wc250/6226669909.jpg",
+    "count": 1
+  },
+  {
+    "id": 47,
+    "brand": "Asus",
+    "category": "Laptop",
+    "title": "Ноутбук ASUS VB E510MA-BQ861W, Intel Pentium Silver N5030 (1.1 ГГц), RAM 8 ГБ, SSD 256 ГБ, Intel UHD Graphics 605, Windows Home, (90NB0Q65-M000V0), черный",
+    "description": {
+      "Процессор: ": "Intel Pentium Silver N5030 (1.1 ГГц)",
+      "Оперативная память: ": "8 ГБ",
+      "Общий объем SSD, ГБ: ": "256",
+      "Общий объем HDD, ГБ: ": "0",
+      "Видеокарта: ": "Intel UHD Graphics 605"
+    },
+    "price": 1629.54,
+    "year": 2019,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-z/wc250/6226670399.jpg",
+    "count": 17
+  },
+  {
+    "id": 48,
+    "brand": "Asus",
+    "category": "Laptop",
+    "title": "Ноутбук ASUS E410MA-EK1281W, Intel Celeron N4020 (1.1 ГГц), RAM 4 ГБ, eMMC 128 ГБ, Intel UHD Graphics 600, Windows Home, (90NB0Q11-M41630), синий",
+    "description": {
+      "Процессор: ": "Intel Celeron N4020 (1.1 ГГц)",
+      "Оперативная память: ": "4 ГБ",
+      "Общий объем eMMC, ГБ: ": "128",
+      "Видеокарта: ": "Intel UHD Graphics 600",
+      "Операционная система: ": "Windows Home"
+    },
+    "price": 1147.42,
+    "year": 2019,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-p/wc250/6179072125.jpg",
+    "count": 17
+  },
+  {
+    "id": 55,
+    "brand": "Asus",
+    "category": "Laptop",
+    "title": "Ноутбук ASUS UX5400EA-KN132W, Intel Core i5-1135G7 (2.4 ГГц), RAM 8 ГБ, SSD 512 ГБ, Intel Iris Xe Graphics, Windows Home, (90NB0TA3-M03780), серый",
+    "description": {
+      "Процессор: ": "Intel Core i5-1135G7 (2.4 ГГц)",
+      "Оперативная память: ": "8 ГБ",
+      "Общий объем SSD, ГБ: ": "512",
+      "Видеокарта: ": "Intel Iris Xe Graphics",
+      "Операционная система: ": "Windows Home"
+    },
+    "price": 3931.63,
+    "year": 2021,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-h/wc250/6225637325.jpg",
+    "count": 17
+  },
+  {
+    "id": 69,
+    "brand": "HP",
+    "category": "Laptop",
+    "title": "Ноутбук HP Pavilion 15-eh1039ur, AMD Ryzen 5 5500U (2.1 ГГц), RAM 16 ГБ, SSD 512 ГБ, AMD Radeon Vega 7, Без системы, (4L5Q1EA)",
+    "description": {
+      "Процессор: ": "AMD Ryzen 5 5500U (2.1 ГГц)",
+      "Оперативная память: ": "16 ГБ",
+      "Общий объем SSD, ГБ: ": "512",
+      "Видеокарта: ": "AMD Radeon Vega 7",
+      "Операционная система: ": "Без системы"
+    },
+    "price": 2663.47,
+    "year": 2019,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-9/wc250/6286924617.jpg",
+    "count": 4
+  },
+  {
+    "id": 84,
+    "brand": "HP",
+    "category": "Laptop",
+    "title": "Ноутбук HP 15s-fq1083ur (22R35EA), Без системы, (22R35EA), серебристый",
+    "description": {
+      "Общий объем SSD, ГБ: ": "512",
+      "Операционная система: ": "Без системы",
+      "Диагональ экрана, дюймы: ": "15.6",
+      "Время автономной работы, ч: ": "7.0",
+      "Вес, кг: ": "1.69"
+    },
+    "price": 2067.08,
+    "year": 2020,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-a/wc250/6271338706.jpg",
+    "count": 17
+  },
+  {
+    "id": 85,
+    "brand": "HP",
+    "category": "Laptop",
+    "title": "Ноутбук HP Pavilion 13-bb0033ur, Intel Core i5-1135G7 (2.4 ГГц), RAM 8 ГБ, SSD 512 ГБ, Intel Iris Xe Graphics, Без системы, (4E0Y5EA), серебристый",
+    "description": {
+      "Процессор: ": "Intel Core i5-1135G7 (2.4 ГГц)",
+      "Оперативная память: ": "8 ГБ",
+      "Общий объем SSD, ГБ: ": "512",
+      "Видеокарта: ": "Intel Iris Xe Graphics",
+      "Операционная система: ": "Без системы"
+    },
+    "price": 2863.96,
+    "year": 2019,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-6/wc250/6277540854.jpg",
+    "count": 1
+  },
+  {
+    "id": 86,
+    "brand": "Lenovo",
+    "category": "Laptop",
+    "title": "Ноутбук Lenovo IdeaPad 1 11ADA05, AMD Athlon Silver 3050e (1.4 ГГц), RAM 4 ГБ, SSD 128 ГБ, AMD Radeon Graphics, Windows Home, (82GV003VRU), серый",
+    "description": {
+      "Процессор: ": "AMD Athlon Silver 3050e (1.4 ГГц)",
+      "Оперативная память: ": "4 ГБ",
+      "Общий объем SSD, ГБ: ": "128",
+      "Видеокарта: ": "AMD Radeon Graphics",
+      "Операционная система: ": "Windows Home"
+    },
+    "price": 909.1,
+    "year": 2019,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-3/wc250/6154651179.jpg",
+    "count": 18
+  },
+  {
+    "id": 87,
+    "brand": "Lenovo",
+    "category": "Laptop",
+    "title": "Ноутбук Lenovo IdeaPad 3 17ITL6, Intel Celeron 6305 (1.8 ГГц), RAM 4 ГБ, SSD 128 ГБ, Intel UHD Graphics, Windows Home, (82H9008YRU), Серый",
+    "description": {
+      "Процессор: ": "Intel Celeron 6305 (1.8 ГГц)",
+      "Оперативная память: ": "4 ГБ",
+      "Общий объем SSD, ГБ: ": "128",
+      "Видеокарта: ": "Intel UHD Graphics",
+      "Операционная система: ": "Windows Home"
+    },
+    "price": 1380.33,
+    "year": 2021,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-c/wc250/6156161388.jpg",
+    "count": 14
+  },
+  {
+    "id": 99,
+    "brand": "Lenovo",
+    "category": "Laptop",
+    "title": "Ноутбук Lenovo IdeaPad 3, AMD Athlon Silver 3050U (2.3 ГГц), RAM 8 ГБ, SSD 256 ГБ, AMD Radeon Graphics, Без системы, (81W1019JRK)",
+    "description": {
+      "Процессор: ": "AMD Athlon Silver 3050U (2.3 ГГц)",
+      "Оперативная память: ": "8 ГБ",
+      "Общий объем SSD, ГБ: ": "256",
+      "Видеокарта: ": "AMD Radeon Graphics",
+      "Операционная система: ": "Без системы"
+    },
+    "price": 1614.19,
+    "year": 2019,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-k/wc250/6065112860.jpg",
+    "count": 1
+  },
+  {
+    "id": 118,
+    "brand": "MSI",
+    "category": "Laptop",
+    "title": "Ноутбук MSI GL76 11UDK-237XRU, Intel Core i5-11400H (2.7 ГГц), RAM 8 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 3050 Ti для ноутбуков (4 Гб), Без системы, (9S7-17L222-237), черно-серый",
+    "description": {
+      "Процессор: ": "Intel Core i5-11400H (2.7 ГГц)",
+      "Оперативная память: ": "8 ГБ",
+      "Общий объем SSD, ГБ: ": "512",
+      "Видеокарта: ": "NVIDIA GeForce RTX 3050 Ti для ноутбуков (4 Гб)",
+      "Операционная система: ": "Без системы"
+    },
+    "price": 4177.91,
+    "year": 2019,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-i/wc250/6090049374.jpg",
+    "count": 1
+  },
+  {
+    "id": 119,
+    "brand": "MSI",
+    "category": "Laptop",
+    "title": "Ноутбук MSI Pulse GL66 11UDK-418RU, Intel Core i5-11400H (2.7 ГГц), RAM 8 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 3050 Ti для ноутбуков (4 Гб), Windows Home, (9S7-158224-418), серый",
+    "description": {
+      "Процессор: ": "Intel Core i5-11400H (2.7 ГГц)",
+      "Оперативная память: ": "8 ГБ",
+      "Общий объем SSD, ГБ: ": "512",
+      "Видеокарта: ": "NVIDIA GeForce RTX 3050 Ti для ноутбуков (4 Гб)",
+      "Операционная система: ": "Windows Home"
+    },
+    "price": 4344.25,
+    "year": 2019,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-v/wc250/6127007059.jpg",
+    "count": 12
+  },
+  {
+    "id": 120,
+    "brand": "MSI",
+    "category": "Laptop",
+    "title": "Ноутбук MSI GF63 Thin 11UD-223XRU, Intel Core i5-11400H (2.7 ГГц), RAM 8 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 3050 для ноутбуков (4 Гб), Без системы, (9S7-16R612-223), черный. Уцененный товар",
+    "description": {
+      "Процессор: ": "Intel Core i5-11400H (2.7 ГГц)",
+      "Оперативная память: ": "8 ГБ",
+      "Общий объем SSD, ГБ: ": "512",
+      "Видеокарта: ": "NVIDIA GeForce RTX 3050 для ноутбуков (4 Гб)",
+      "Операционная система: ": "Без системы"
+    },
+    "price": 3437.44,
+    "year": 2021,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-p/wc250/6157361965.jpg",
+    "count": 1
+  },
+  {
+    "id": 121,
+    "brand": "MSI",
+    "category": "Laptop",
+    "title": "Ноутбук MSI Prestige 15, Intel Core i5-1155G7 (2.5 ГГц), RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 3050 для ноутбуков (4 Гб), Windows Home, (9S7-16S711-070), серый",
+    "description": {
+      "Процессор: ": "Intel Core i5-1155G7 (2.5 ГГц)",
+      "Оперативная память: ": "16 ГБ",
+      "Общий объем SSD, ГБ: ": "512",
+      "Видеокарта: ": "NVIDIA GeForce RTX 3050 для ноутбуков (4 Гб)",
+      "Операционная система: ": "Windows Home"
+    },
+    "price": 4627.61,
+    "year": 2019,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-8/wc250/6246083480.jpg",
+    "count": 14
+  },
+  {
+    "id": 122,
+    "brand": "Acer",
+    "category": "Monoblock",
+    "title": "19,5\" Моноблок Acer (Intel Celeron J3060 (1.6 ГГц), RAM 4 ГБ, Intel HD Graphics, ",
+    "description": {
+      "Диагональ экрана, дюймы: ": "19.5",
+      "Процессор: ": "Intel Celeron J3060 (1.6 ГГц)",
+      "Видеокарта: ": "Intel HD Graphics",
+      "Тип памяти: ": "DDR3L",
+      "Тип видеокарты: ": "Встроенная"
+    },
+    "price": 1601.37,
+    "year": 2019,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-k/wc250/6286475672.jpg",
+    "count": 12
+  },
+  {
+    "id": 123,
+    "brand": "Acer",
+    "category": "Monoblock",
+    "title": "27\" Моноблок Acer (Intel Core i3-1115G4 (3.0 ГГц), RAM 8 ГБ, SSD 256, NVIDIA GeForce MX330 (2 Гб), Windows 11 Home)",
+    "description": {
+      "Диагональ экрана, дюймы: ": "27",
+      "Процессор: ": "Intel Core i3-1115G4 (3.0 ГГц)",
+      "Оперативная память, ГБ: ": "8",
+      "Общий объем SSD, ГБ: ": "256",
+      "Видеокарта: ": "NVIDIA GeForce MX330 (2 Гб)"
+    },
+    "price": 2721.57,
+    "year": 2021,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-9/wc250/6100505133.jpg",
+    "count": 1
+  },
+  {
+    "id": 139,
+    "brand": "Acer",
+    "category": "Monoblock",
+    "title": "27\" Моноблок Acer (Intel Core i5-1135G7 (2.4 ГГц), RAM 16 ГБ, SSD 512, NVIDIA GeForce MX330 (2 Гб), Endless OS)",
+    "description": {
+      "Диагональ экрана, дюймы: ": "27",
+      "Процессор: ": "Intel Core i5-1135G7 (2.4 ГГц)",
+      "Общий объем SSD, ГБ: ": "512",
+      "Видеокарта: ": "NVIDIA GeForce MX330 (2 Гб)",
+      "ОС (краткое название): ": "Endless OS"
+    },
+    "price": 5137.54,
+    "year": 2019,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-q/wc250/6251839214.jpg",
+    "count": 17
+  },
+  {
+    "id": 140,
+    "brand": "Acer",
+    "category": "Monoblock",
+    "title": "27\" Моноблок Acer (Intel Core i3-1115G4 (3.0 ГГц), RAM 8 ГБ, SSD 256, NVIDIA GeForce MX330 (2 Гб), Windows 10 Pro)",
+    "description": {
+      "Диагональ экрана, дюймы: ": "27",
+      "Процессор: ": "Intel Core i3-1115G4 (3.0 ГГц)",
+      "Оперативная память, ГБ: ": "8",
+      "Общий объем SSD, ГБ: ": "256",
+      "Видеокарта: ": "NVIDIA GeForce MX330 (2 Гб)"
+    },
+    "price": 3835.5,
+    "year": 2019,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-7/wc250/6100505131.jpg",
+    "count": 14
+  },
+  {
+    "id": 141,
+    "brand": "Acer",
+    "category": "Monoblock",
+    "title": "27\" Моноблок Acer (Intel Core i3-1115G4 (3.0 ГГц), RAM 8 ГБ, SSD 512, NVIDIA GeForce MX330 (2 Гб), Endless OS)",
+    "description": {
+      "Диагональ экрана, дюймы: ": "27",
+      "Процессор: ": "Intel Core i3-1115G4 (3.0 ГГц)",
+      "Общий объем SSD, ГБ: ": "512",
+      "Видеокарта: ": "NVIDIA GeForce MX330 (2 Гб)",
+      "ОС (краткое название): ": "Endless OS"
+    },
+    "price": 3590.16,
+    "year": 2019,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-q/wc250/6251839214.jpg",
+    "count": 1
+  },
+  {
+    "id": 142,
+    "brand": "Dell",
+    "category": "Monoblock",
+    "title": " Моноблок Dell (Intel Pentium N3700 (1.6 ГГц), RAM 4 ГБ, HDD 1000, Intel HD Graphics, ",
+    "description": {
+      "Процессор: ": "Intel Pentium N3700 (1.6 ГГц)",
+      "Оперативная память, ГБ: ": "4",
+      "Общий объем HDD, ГБ: ": "1000",
+      "Видеокарта: ": "Intel HD Graphics",
+      "Технология матрицы: ": "TN"
+    },
+    "price": 1646.54,
+    "year": 2021,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-p/wc250/6285931033.jpg",
+    "count": 1
+  },
+  {
+    "id": 143,
+    "brand": "Dell",
+    "category": "Monoblock",
+    "title": "Моноблок Dell (Intel Core i5-10505 (3.2 ГГц), RAM 8 ГБ, Intel UHD Graphics 630, ",
+    "description": {
+      "Диагональ экрана, дюймы: ": "23.8",
+      "Процессор: ": "Intel Core i5-10505 (3.2 ГГц)",
+      "Оперативная память, ГБ: ": "8",
+      "Видеокарта: ": "Intel UHD Graphics 630",
+      "Размеры, мм: ": "540.2x344x52.8"
+    },
+    "price": 7070.67,
+    "year": 2019,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-2/wc250/6260594498.jpg",
+    "count": 12
+  },
+  {
+    "id": 153,
+    "brand": "Dell",
+    "category": "Monoblock",
+    "title": " Моноблок Dell (Intel Core i7-1165G7 (2.8 ГГц), RAM 8 ГБ, HDD 256, NVIDIA GeForce MX330 (2 Гб), ",
+    "description": {
+      "Процессор: ": "Intel Core i7-1165G7 (2.8 ГГц)",
+      "Общий объем HDD, ГБ: ": "256",
+      "Видеокарта: ": "NVIDIA GeForce MX330 (2 Гб)",
+      "Материал корпуса: ": "Пластик",
+      "Оптический привод: ": "Отсутствует"
+    },
+    "price": 6012,
+    "year": 2019,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-8/wc250/6222588080.jpg",
+    "count": 1
+  },
+  {
+    "id": 154,
+    "brand": "Dell",
+    "category": "Monoblock",
+    "title": "27\" Моноблок Dell (Intel Core i7-10700 (2.9 ГГц), RAM 16 ГБ, SSD 512, HDD 1000, NVIDIA GeForce GTX 1650 (4 Гб), Linux)",
+    "description": {
+      "Диагональ экрана, дюймы: ": "27",
+      "Процессор: ": "Intel Core i7-10700 (2.9 ГГц)",
+      "Оперативная память, ГБ: ": "16",
+      "Общий объем HDD, ГБ: ": "1000",
+      "Общий объем SSD, ГБ: ": "512"
+    },
+    "price": 11538.3,
+    "year": 2021,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-i/wc250/6238625910.jpg",
+    "count": 14
+  },
+  {
+    "id": 155,
+    "brand": "Dell",
+    "category": "Monoblock",
+    "title": "Моноблок Dell (Intel Core i7-10700 (2.9 ГГц), RAM 16 ГБ, SSD 512, Intel UHD Graphics 630, Windows)",
+    "description": {
+      "Диагональ экрана, дюймы: ": "23.8",
+      "Процессор: ": "Intel Core i7-10700 (2.9 ГГц)",
+      "Оперативная память, ГБ: ": "16",
+      "Общий объем SSD, ГБ: ": "512",
+      "Видеокарта: ": "Intel UHD Graphics 630"
+    },
+    "price": 11694.22,
+    "year": 2022,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-g/wc250/6151218664.jpg",
+    "count": 12
+  },
+  {
+    "id": 156,
+    "brand": "Dell",
+    "category": "Monoblock",
+    "title": " Моноблок Dell (Intel Core i5-1135G7 (2.4 ГГц), RAM 8 ГБ, SSD 256, HDD 1000, Intel Iris Xe Graphics, Windows 10 Pro)",
+    "description": {
+      "Процессор: ": "Intel Core i5-1135G7 (2.4 ГГц)",
+      "Оперативная память, ГБ: ": "8",
+      "Общий объем HDD, ГБ: ": "1000",
+      "Общий объем SSD, ГБ: ": "256",
+      "Видеокарта: ": "Intel Iris Xe Graphics"
+    },
+    "price": 6040.32,
+    "year": 2021,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-o/wc250/6237211728.jpg",
+    "count": 17
+  },
+  {
+    "id": 157,
+    "brand": "Dell",
+    "category": "Monoblock",
+    "title": "Моноблок Dell (Intel Core i7-1165G7 (2.8 ГГц), RAM 16 ГБ, SSD 256, HDD 1024, Intel Iris Xe Graphics, Windows 10 Home)",
+    "description": {
+      "Диагональ экрана, дюймы: ": "23.8",
+      "Процессор: ": "Intel Core i7-1165G7 (2.8 ГГц)",
+      "Оперативная память, ГБ: ": "16",
+      "Общий объем HDD, ГБ: ": "1024",
+      "Общий объем SSD, ГБ: ": "256"
+    },
+    "price": 6656.91,
+    "year": 2020,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-y/wc250/6276228826.jpg",
+    "count": 1
+  },
+  {
+    "id": 168,
+    "brand": "HP",
+    "category": "Monoblock",
+    "title": "Моноблок HP (Intel Celeron J4025 (2.0 ГГц), RAM 4 ГБ, SSD 0, HDD 1000, Intel UHD Graphics 600, Windows 10 Home)",
+    "description": {
+      "Диагональ экрана, дюймы: ": "21.5",
+      "Процессор: ": "Intel Celeron J4025 (2.0 ГГц)",
+      "Оперативная память, ГБ: ": "4",
+      "Общий объем HDD, ГБ: ": "1000",
+      "Общий объем SSD, ГБ: ": "0"
+    },
+    "price": 2056.79,
+    "year": 2019,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-f/wc250/6018077739.jpg",
+    "count": 15
+  },
+  {
+    "id": 169,
+    "brand": "HP",
+    "category": "Monoblock",
+    "title": "Моноблок HP (Intel Core i5-1135G7 (2.4 ГГц), RAM 8 ГБ, SSD 512, Intel Iris Xe Graphics, Windows 10 Home)",
+    "description": {
+      "Диагональ экрана, дюймы: ": "21.5",
+      "Процессор: ": "Intel Core i5-1135G7 (2.4 ГГц)",
+      "Оперативная память, ГБ: ": "8",
+      "Общий объем SSD, ГБ: ": "512",
+      "Видеокарта: ": "Intel Iris Xe Graphics"
+    },
+    "price": 3615.17,
+    "year": 2019,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-l/wc250/6090254109.jpg",
+    "count": 1
+  },
+  {
+    "id": 178,
+    "brand": "HP",
+    "category": "Monoblock",
+    "title": "Моноблок HP (Intel Core i3-10100T (3.0 ГГц), RAM 8 ГБ, SSD 256, Intel UHD Graphics 630, Windows 10 Pro)",
+    "description": {
+      "Диагональ экрана, дюймы: ": "23.8",
+      "Процессор: ": "Intel Core i3-10100T (3.0 ГГц)",
+      "Оперативная память, ГБ: ": "8",
+      "Общий объем SSD, ГБ: ": "256",
+      "Видеокарта: ": "Intel UHD Graphics 630"
+    },
+    "price": 5173.08,
+    "year": 2019,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-h/wc250/6201785633.jpg",
+    "count": 12
+  },
+  {
+    "id": 179,
+    "brand": "HP",
+    "category": "Monoblock",
+    "title": "19,5\" Моноблок HP (Intel Core i5-10500T (2.3 ГГц), RAM 8 ГБ, HDD 1000, Intel UHD Graphics 630, Windows 10 Pro)",
+    "description": {
+      "Диагональ экрана, дюймы: ": "19.5",
+      "Процессор: ": "Intel Core i5-10500T (2.3 ГГц)",
+      "Оперативная память, ГБ: ": "8",
+      "Общий объем HDD, ГБ: ": "1000",
+      "Видеокарта: ": "Intel UHD Graphics 630"
+    },
+    "price": 5229.95,
+    "year": 2018,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-4/wc250/6283916092.jpg",
+    "count": 1
+  },
+  {
+    "id": 180,
+    "brand": "HP",
+    "category": "Monoblock",
+    "title": "Моноблок HP (AMD Ryzen 3 3250U (2.6 ГГц), RAM 4 ГБ, SSD 256, HDD 0, AMD Radeon Vega 3, Windows 10 Home)",
+    "description": {
+      "Диагональ экрана, дюймы: ": "23.8",
+      "Процессор: ": "AMD Ryzen 3 3250U (2.6 ГГц)",
+      "Оперативная память, ГБ: ": "4",
+      "Общий объем HDD, ГБ: ": "0",
+      "Общий объем SSD, ГБ: ": "256"
+    },
+    "price": 2520.8,
+    "year": 2018,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-f/wc250/6018077739.jpg",
+    "count": 17
+  },
+  {
+    "id": 181,
+    "brand": "HP",
+    "category": "Monoblock",
+    "title": "Моноблок HP (Intel Celeron J4025 (2.0 ГГц), RAM 4 ГБ, SSD 128, HDD 0, Intel UHD Graphics 600, Без системы)",
+    "description": {
+      "Диагональ экрана, дюймы: ": "21.5",
+      "Процессор: ": "Intel Celeron J4025 (2.0 ГГц)",
+      "Оперативная память, ГБ: ": "4",
+      "Общий объем HDD, ГБ: ": "0",
+      "Общий объем SSD, ГБ: ": "128"
+    },
+    "price": 1924.42,
+    "year": 2018,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-2/wc250/6275346542.jpg",
+    "count": 1
+  },
+  {
+    "id": 242,
+    "brand": "Huawei",
+    "category": "Smartphone",
+    "title": "Смартфон HUAWEI Y6p Phantom Purple 3/64GB, фиолетовый",
+    "description": {
+      "Тип: ": "Смартфон",
+      "Диагональ экрана, дюймы: ": "6.3",
+      "Емкость аккумулятора, мАч: ": "5000",
+      "Процессор: ": "MT6762R (8 ядер), 2.0 ГГц",
+      "Основной материал корпуса: ": "Пластик"
+    },
+    "price": 630.7,
+    "year": 2019,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-4/wc250/6018911992.jpg",
+    "count": 1
+  },
+  {
+    "id": 259,
+    "brand": "Huawei",
+    "category": "Smartphone",
+    "title": "Смартфон HUAWEI nova 9 8/128GB, синий. Уцененный товар",
+    "description": {
+      "Тип: ": "Смартфон",
+      "Диагональ экрана, дюймы: ": "6.57",
+      "Емкость аккумулятора, мАч: ": "4300",
+      "Процессор: ": "Snapdragon 778G (8 ядер), 2.4 ГГц",
+      "Беспроводные интерфейсы: ": "Bluetooth, Wi-Fi, NFC"
+    },
+    "price": 1541.89,
+    "year": 2018,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-z/wc250/6223669655.jpg",
+    "count": 14
+  },
+  {
+    "id": 260,
+    "brand": "Huawei",
+    "category": "Smartphone",
+    "title": "Смартфон HUAWEI nova 8i 6/128GB, синий. Уцененный товар",
+    "description": {
+      "Тип: ": "Смартфон",
+      "Диагональ экрана, дюймы: ": "6.67",
+      "Емкость аккумулятора, мАч: ": "4300",
+      "Беспроводные интерфейсы: ": "Bluetooth, Wi-Fi",
+      "Разрешение экрана: ": "2376x1080"
+    },
+    "price": 1085.06,
+    "year": 2019,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-3/wc250/6125176503.jpg",
+    "count": 17
+  },
+  {
+    "id": 261,
+    "brand": "Huawei",
+    "category": "Smartphone",
+    "title": "Смартфон HUAWEI 50 Lite 6/128GB 6/, серебристый",
+    "description": {
+      "Тип: ": "Смартфон",
+      "Диагональ экрана, дюймы: ": "6.67",
+      "Емкость аккумулятора, мАч: ": "4300",
+      "Беспроводные интерфейсы: ": "Bluetooth, Wi-Fi, NFC",
+      "Разрешение экрана: ": "2376x1080"
+    },
+    "price": 958.05,
+    "year": 2018,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-3/wc250/6258838239.jpg",
+    "count": 8
+  },
+  {
+    "id": 262,
+    "brand": "Poco",
+    "category": "Smartphone",
+    "title": "Смартфон Poco 6/128GB, белый",
+    "description": {
+      "Тип: ": "Смартфон",
+      "Диагональ экрана, дюймы: ": "6.67",
+      "Емкость аккумулятора, мАч: ": "4520",
+      "Процессор: ": "Snapdragon 870 (8 ядер), 3.2 ГГц",
+      "Основной материал корпуса: ": "Стекло"
+    },
+    "price": 1860.2,
+    "year": 2019,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-w/wc250/6078067256.jpg",
+    "count": 15
+  },
+  {
+    "id": 263,
+    "brand": "Poco",
+    "category": "Smartphone",
+    "title": "Смартфон Poco M3 Pro 6/128GB, синий",
+    "description": {
+      "Тип: ": "Смартфон",
+      "Диагональ экрана, дюймы: ": "6.53",
+      "Емкость аккумулятора, мАч: ": "5000",
+      "Процессор: ": "Dimensity 700 (8 ядер), 2.2 ГГц",
+      "Основной материал корпуса: ": "Пластик"
+    },
+    "price": 808.2,
+    "year": 2019,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-7/wc250/6067747435.jpg",
+    "count": 17
+  },
+  {
+    "id": 264,
+    "brand": "Poco",
+    "category": "Smartphone",
+    "title": "Смартфон Poco X3 Pro 8/256GB, синий",
+    "description": {
+      "Тип: ": "Смартфон",
+      "Диагональ экрана, дюймы: ": "6.67",
+      "Емкость аккумулятора, мАч: ": "5160",
+      "Процессор: ": "Snapdragon 860 (8 ядер), 2.96 ГГц",
+      "Основной материал корпуса: ": "Пластик"
+    },
+    "price": 1119.21,
+    "year": 2019,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-f/wc250/6057261471.jpg",
+    "count": 1
+  },
+  {
+    "id": 265,
+    "brand": "Poco",
+    "category": "Smartphone",
+    "title": "Смартфон Poco F3 8/256GB, черный",
+    "description": {
+      "Тип: ": "Смартфон",
+      "Диагональ экрана, дюймы: ": "6.67",
+      "Емкость аккумулятора, мАч: ": "4520",
+      "Процессор: ": "Snapdragon 870 (8 ядер), 3.2 ГГц",
+      "Основной материал корпуса: ": "Стекло"
+    },
+    "price": 1307.12,
+    "year": 2018,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-e/wc250/6059122994.jpg",
+    "count": 1
+  },
+  {
+    "id": 281,
+    "brand": "Poco",
+    "category": "Smartphone",
+    "title": "Смартфон Poco M4 Pro 4G 6/128GB, синий",
+    "description": {
+      "Тип: ": "Смартфон",
+      "Диагональ экрана, дюймы: ": "6.43",
+      "Емкость аккумулятора, мАч: ": "5000",
+      "Основной материал корпуса: ": "Пластик",
+      "Беспроводные интерфейсы: ": "Bluetooth, GPS, NFC, Wi-Fi"
+    },
+    "price": 950.28,
+    "year": 2019,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-u/wc250/6274237302.jpg",
+    "count": 8
+  },
+  {
+    "id": 282,
+    "brand": "Realme",
+    "category": "Smartphone",
+    "title": "Смартфон realme C25S 4/64GB, серый",
+    "description": {
+      "Тип: ": "Смартфон",
+      "Диагональ экрана, дюймы: ": "6.5",
+      "Емкость аккумулятора, мАч: ": "6000",
+      "Процессор: ": "Helio G85 (8 ядер), 2.0 ГГц",
+      "Основной материал корпуса: ": "Пластик"
+    },
+    "price": 535.68,
+    "year": 2019,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-y/wc250/6139525522.jpg",
+    "count": 17
+  },
+  {
+    "id": 288,
+    "brand": "Realme",
+    "category": "Smartphone",
+    "title": "Смартфон realme C21Y 3/32GB, черный",
+    "description": {
+      "Тип: ": "Смартфон",
+      "Диагональ экрана, дюймы: ": "6.5",
+      "Емкость аккумулятора, мАч: ": "5000",
+      "Процессор: ": "T610 (8 ядер), 1.8 ГГц",
+      "Основной материал корпуса: ": "Пластик"
+    },
+    "price": 424.14,
+    "year": 2019,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-y/wc250/6132871498.jpg",
+    "count": 8
+  },
+  {
+    "id": 289,
+    "brand": "Realme",
+    "category": "Smartphone",
+    "title": "Смартфон realme narzo 50i 2/32GB, зеленый",
+    "description": {
+      "Тип: ": "Смартфон",
+      "Диагональ экрана, дюймы: ": "6.5",
+      "Емкость аккумулятора, мАч: ": "5000",
+      "Процессор: ": "SC9863A (8 ядер), 1.6 ГГц",
+      "Основной материал корпуса: ": "Пластик"
+    },
+    "price": 355.39,
+    "year": 2018,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-w/wc250/6267877832.jpg",
+    "count": 1
+  },
+  {
+    "id": 290,
+    "brand": "Realme",
+    "category": "Smartphone",
+    "title": "Смартфон realme 8 6/128GB, черный",
+    "description": {
+      "Тип: ": "Смартфон",
+      "Диагональ экрана, дюймы: ": "6.4",
+      "Емкость аккумулятора, мАч: ": "5000",
+      "Процессор: ": "Helio G95 (8 ядер), 2.05 ГГц",
+      "Основной материал корпуса: ": "Пластик"
+    },
+    "price": 864.21,
+    "year": 2019,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-s/wc250/6058807396.jpg",
+    "count": 14
+  },
+  {
+    "id": 301,
+    "brand": "Realme",
+    "category": "Smartphone",
+    "title": "Смартфон realme C21Y 3/32GB, голубой",
+    "description": {
+      "Тип: ": "Смартфон",
+      "Диагональ экрана, дюймы: ": "6.5",
+      "Емкость аккумулятора, мАч: ": "5000",
+      "Процессор: ": "T610 (8 ядер), 1.8 ГГц",
+      "Основной материал корпуса: ": "Пластик"
+    },
+    "price": 424.14,
+    "year": 2019,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-a/wc250/6132871402.jpg",
+    "count": 17
+  },
+  {
+    "id": 302,
+    "brand": "Xiaomi",
+    "category": "Smartphone",
+    "title": "Смартфон Xiaomi Redmi 9A 2/32GB, зеленый",
+    "description": {
+      "Тип: ": "Смартфон",
+      "Диагональ экрана, дюймы: ": "6.53",
+      "Емкость аккумулятора, мАч: ": "5000",
+      "Процессор: ": "Helio G25 (8 ядер), 2.0 ГГц",
+      "Основной материал корпуса: ": "Пластик"
+    },
+    "price": 400.43,
+    "year": 2018,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-3/wc250/6019317963.jpg",
+    "count": 1
+  },
+  {
+    "id": 303,
+    "brand": "Xiaomi",
+    "category": "Smartphone",
+    "title": "Смартфон Xiaomi Redmi Note 10S 6/64GB, синий",
+    "description": {
+      "Тип: ": "Смартфон",
+      "Диагональ экрана, дюймы: ": "6.43",
+      "Емкость аккумулятора, мАч: ": "5000",
+      "Процессор: ": "Helio G95 (8 ядер), 2.05 ГГц",
+      "Основной материал корпуса: ": "Пластик, Стекло"
+    },
+    "price": 709.2,
+    "year": 2019,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-i/wc250/6070253982.jpg",
+    "count": 1
+  },
+  {
+    "id": 304,
+    "brand": "Xiaomi",
+    "category": "Smartphone",
+    "title": "Смартфон Xiaomi Note 10S 6/64GB, белый",
+    "description": {
+      "Тип: ": "Смартфон",
+      "Диагональ экрана, дюймы: ": "6.43",
+      "Емкость аккумулятора, мАч: ": "5000",
+      "Процессор: ": "Helio G95 (8 ядер), 2.05 ГГц",
+      "Беспроводные интерфейсы: ": "Wi-Fi, Bluetooth, GPS"
+    },
+    "price": 709.2,
+    "year": 2019,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-a/wc250/6159459994.jpg",
+    "count": 17
+  },
+  {
+    "id": 305,
+    "brand": "Xiaomi",
+    "category": "Smartphone",
+    "title": "Смартфон Xiaomi Redmi Note 10S 6/, серый",
+    "description": {
+      "Тип: ": "Смартфон",
+      "Диагональ экрана, дюймы: ": "6.43",
+      "Емкость аккумулятора, мАч: ": "5000",
+      "Процессор: ": "Helio G95 (8 ядер), 2.05 ГГц",
+      "Основной материал корпуса: ": "Пластик, Стекло"
+    },
+    "price": 709.2,
+    "year": 2018,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-g/wc250/6070253980.jpg",
+    "count": 14
+  },
+  {
+    "id": 306,
+    "brand": "Xiaomi",
+    "category": "Smartphone",
+    "title": "Смартфон Xiaomi 11 Lite 5G NE 6/128GB, белый",
+    "description": {
+      "Тип: ": "Смартфон",
+      "Диагональ экрана, дюймы: ": "6.55",
+      "Емкость аккумулятора, мАч: ": "4250",
+      "Процессор: ": "Snapdragon 778G (8 ядер), 2.4 ГГц",
+      "Основной материал корпуса: ": "Пластик, Стекло"
+    },
+    "price": 1024.75,
+    "year": 2018,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-l/wc250/6129266553.jpg",
+    "count": 1
+  },
+  {
+    "id": 307,
+    "brand": "Xiaomi",
+    "category": "Smartphone",
+    "title": "Смартфон Xiaomi 11 Lite 5G NE 6/128GB, голубой",
+    "description": {
+      "Тип: ": "Смартфон",
+      "Диагональ экрана, дюймы: ": "6.55",
+      "Емкость аккумулятора, мАч: ": "4250",
+      "Процессор: ": "Snapdragon 778G (8 ядер), 2.4 ГГц",
+      "Основной материал корпуса: ": "Пластик, Стекло"
+    },
+    "price": 1024.75,
+    "year": 2019,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-h/wc250/6129266261.jpg",
+    "count": 17
+  },
+  {
+    "id": 308,
+    "brand": "Xiaomi",
+    "category": "Smartphone",
+    "title": "Смартфон Xiaomi Redmi Note 10T 4/128GB, серый",
+    "description": {
+      "Тип: ": "Смартфон",
+      "Диагональ экрана, дюймы: ": "6.5",
+      "Емкость аккумулятора, мАч: ": "5000",
+      "Процессор: ": "Dimensity 700 (8 ядер), 2.2 ГГц",
+      "Основной материал корпуса: ": "Пластик, Стекло"
+    },
+    "price": 788.08,
+    "year": 2021,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-a/wc250/6067361230.jpg",
+    "count": 14
+  },
+  {
+    "id": 320,
+    "brand": "Xiaomi",
+    "category": "Smartphone",
+    "title": "Смартфон Xiaomi Redmi 9A 2/32GB, серый",
+    "description": {
+      "Тип: ": "Смартфон",
+      "Диагональ экрана, дюймы: ": "6.53",
+      "Емкость аккумулятора, мАч: ": "5000",
+      "Процессор: ": "Helio G25 (8 ядер), 2.0 ГГц",
+      "Основной материал корпуса: ": "Пластик"
+    },
+    "price": 392.27,
+    "year": 2018,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-y/wc250/6181633642.jpg",
+    "count": 17
+  },
+  {
+    "id": 321,
+    "brand": "Xiaomi",
+    "category": "Smartphone",
+    "title": "Смартфон Xiaomi 9C 4/128GB, зеленый",
+    "description": {
+      "Тип: ": "Смартфон",
+      "Диагональ экрана, дюймы: ": "6.53",
+      "Емкость аккумулятора, мАч: ": "5000",
+      "Процессор: ": "Helio P35 (8 ядер), 2.3 ГГц",
+      "Основной материал корпуса: ": "Пластик"
+    },
+    "price": 684.9,
+    "year": 2021,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-m/wc250/6156663166.jpg",
+    "count": 17
+  },
+  {
+    "id": 322,
+    "brand": "ZTE",
+    "category": "Smartphone",
+    "title": "Смартфон ZTE Blade L9 1/32GB, синий",
+    "description": {
+      "Тип: ": "Смартфон",
+      "Диагональ экрана, дюймы: ": "5",
+      "Емкость аккумулятора, мАч: ": "2000",
+      "Процессор: ": "SC7731E (4 ядра), 1.3 ГГц",
+      "Основной материал корпуса: ": "Пластик"
+    },
+    "price": 188.58,
+    "year": 2019,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-1/wc250/6273969685.jpg",
+    "count": 1
+  },
+  {
+    "id": 323,
+    "brand": "ZTE",
+    "category": "Smartphone",
+    "title": "Смартфон ZTE Blade V30 4/128GB, серый",
+    "description": {
+      "Тип: ": "Смартфон",
+      "Диагональ экрана, дюймы: ": "6.67",
+      "Емкость аккумулятора, мАч: ": "5000",
+      "Процессор: ": "Tiger T618 (8 ядер), 2.0 ГГц",
+      "Основной материал корпуса: ": "Пластик"
+    },
+    "price": 585.86,
+    "year": 2019,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-l/wc250/6084701649.jpg",
+    "count": 17
+  },
+  {
+    "id": 324,
+    "brand": "ZTE",
+    "category": "Smartphone",
+    "title": "Смартфон ZTE Blade V30 4/128GB, синий",
+    "description": {
+      "Тип: ": "Смартфон",
+      "Диагональ экрана, дюймы: ": "6.67",
+      "Емкость аккумулятора, мАч: ": "5000",
+      "Основной материал корпуса: ": "Пластик",
+      "Беспроводные интерфейсы: ": "Bluetooth, Wi-Fi"
+    },
+    "price": 585.86,
+    "year": 2019,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-y/wc250/6087202690.jpg",
+    "count": 14
+  },
+  {
+    "id": 325,
+    "brand": "ZTE",
+    "category": "Smartphone",
+    "title": "Смартфон ZTE Blade V30 Vita 4/128GB, серый",
+    "description": {
+      "Тип: ": "Смартфон",
+      "Диагональ экрана, дюймы: ": "6.82",
+      "Емкость аккумулятора, мАч: ": "5000",
+      "Беспроводные интерфейсы: ": "NFC",
+      "Разрешение экрана: ": "1640x720"
+    },
+    "price": 464.13,
+    "year": 2018,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-e/wc250/6083457482.jpg",
+    "count": 4
+  },
+  {
+    "id": 326,
+    "brand": "ZTE",
+    "category": "Smartphone",
+    "title": "Смартфон ZTE Blade V30 Vita 4/128GB, синий",
+    "description": {
+      "Тип: ": "Смартфон",
+      "Диагональ экрана, дюймы: ": "6.82",
+      "Емкость аккумулятора, мАч: ": "5000",
+      "Беспроводные интерфейсы: ": "NFC",
+      "Разрешение экрана: ": "1640x720"
+    },
+    "price": 464.13,
+    "year": 2021,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-j/wc250/6083457343.jpg",
+    "count": 12
+  },
+  {
+    "id": 327,
+    "brand": "ZTE",
+    "category": "Smartphone",
+    "title": "Смартфон ZTE Blade L9 1/32GB, серый",
+    "description": {
+      "Тип: ": "Смартфон",
+      "Диагональ экрана, дюймы: ": "5",
+      "Емкость аккумулятора, мАч: ": "2000",
+      "Процессор: ": "SC7731E (4 ядра), 1.3 ГГц",
+      "Основной материал корпуса: ": "Пластик"
+    },
+    "price": 169.29,
+    "year": 2019,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-f/wc250/6274226343.jpg",
+    "count": 8
+  },
+  {
+    "id": 328,
+    "brand": "ZTE",
+    "category": "Smartphone",
+    "title": "Смартфон ZTE Blade A31 PLUS 1/32GB, синий",
+    "description": {
+      "Тип: ": "Смартфон",
+      "Диагональ экрана, дюймы: ": "6",
+      "Емкость аккумулятора, мАч: ": "3000",
+      "Процессор: ": "SC9863A (8 ядер), 1.6 ГГц",
+      "Основной материал корпуса: ": "Пластик"
+    },
+    "price": 265.65,
+    "year": 2018,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-p/wc250/6274226353.jpg",
+    "count": 4
+  },
+  {
+    "id": 329,
+    "brand": "ZTE",
+    "category": "Smartphone",
+    "title": "Смартфон ZTE Blade L210 1/32GB, синий",
+    "description": {
+      "Тип: ": "Смартфон",
+      "Диагональ экрана, дюймы: ": "6",
+      "Емкость аккумулятора, мАч: ": "2600",
+      "Процессор: ": "SC7731E (4 ядра), 1.3 ГГц",
+      "Основной материал корпуса: ": "Пластик"
+    },
+    "price": 225.14,
+    "year": 2019,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-e/wc250/6029269166.jpg",
+    "count": 14
+  },
+  {
+    "id": 330,
+    "brand": "ZTE",
+    "category": "Smartphone",
+    "title": "Смартфон ZTE Blade A51 2/32GB, серый",
+    "description": {
+      "Тип: ": "Смартфон",
+      "Диагональ экрана, дюймы: ": "6.52",
+      "Емкость аккумулятора, мАч: ": "3200",
+      "Процессор: ": "SC9863A (8 ядер), 1.6 ГГц",
+      "Основной материал корпуса: ": "Пластик"
+    },
+    "price": 367.69,
+    "year": 2019,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-q/wc250/6274226282.jpg",
+    "count": 4
+  },
+  {
+    "id": 331,
+    "brand": "ZTE",
+    "category": "Smartphone",
+    "title": "Смартфон ZTE Blade A51 2/64GB, серый",
+    "description": {
+      "Тип: ": "Смартфон",
+      "Диагональ экрана, дюймы: ": "6.5",
+      "Емкость аккумулятора, мАч: ": "3200",
+      "Процессор: ": "SC9863A (8 ядер), 1.6 ГГц",
+      "Основной материал корпуса: ": "Пластик"
+    },
+    "price": 368.09,
+    "year": 2021,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-6/wc250/6274226298.jpg",
+    "count": 1
+  },
+  {
+    "id": 332,
+    "brand": "ZTE",
+    "category": "Smartphone",
+    "title": "Смартфон ZTE Blade A3 1/32GB, синий",
+    "description": {
+      "Тип: ": "Смартфон",
+      "Диагональ экрана, дюймы: ": "5.45",
+      "Емкость аккумулятора, мАч: ": "2600",
+      "Процессор: ": "SC9832E (4 ядра), 1.3 ГГц",
+      "Основной материал корпуса: ": "Пластик"
+    },
+    "price": 253.03,
+    "year": 2016,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-s/wc250/6017179300.jpg",
+    "count": 4
+  },
+  {
+    "id": 340,
+    "brand": "ZTE",
+    "category": "Smartphone",
+    "title": "Смартфон ZTE Blade A71 3/64GB, синий",
+    "description": {
+      "Тип: ": "Смартфон",
+      "Диагональ экрана, дюймы: ": "6.52",
+      "Емкость аккумулятора, мАч: ": "4000",
+      "Процессор: ": "SC9863A (8 ядер), 1.6 ГГц",
+      "Основной материал корпуса: ": "Пластик"
+    },
+    "price": 444.33,
+    "year": 2018,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-b/wc250/6071955551.jpg",
+    "count": 14
+  },
+  {
+    "id": 341,
+    "brand": "ZTE",
+    "category": "Smartphone",
+    "title": "Смартфон ZTE Blade A51 2/64GB, серый. Уцененный товар",
+    "description": {
+      "Тип: ": "Смартфон",
+      "Диагональ экрана, дюймы: ": "6.5",
+      "Емкость аккумулятора, мАч: ": "3200",
+      "Процессор: ": "SC9863A (8 ядер), 1.6 ГГц",
+      "Основной материал корпуса: ": "Пластик"
+    },
+    "price": 356.77,
+    "year": 2019,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-6/wc250/6274226298.jpg",
+    "count": 4
+  },
+  {
+    "id": 402,
+    "brand": "Huawei",
+    "category": "Tablet",
+    "title": " Планшет HUAWEI MatePad T10 LTE, 9.32GB, темно-синий",
+    "description": {
+      "Диагональ экрана, дюймы: ": "9.7",
+      "Тип: ": "Планшет",
+      "Беспроводные интерфейсы: ": "Bluetooth, GPS",
+      "Встроенная память,  ГБ: ": "32",
+      "Оперативная память: ": "2 ГБ"
+    },
+    "price": 552.84,
+    "year": 2021,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-z/wc250/6161379035.jpg",
+    "count": 1
+  },
+  {
+    "id": 403,
+    "brand": "Huawei",
+    "category": "Tablet",
+    "title": " Планшет HUAWEI T8 KOB2-L09 синий (53011JUK), 16GB, синий",
+    "description": {
+      "Диагональ экрана, дюймы: ": "8",
+      "Тип: ": "Планшет",
+      "Встроенная память,  ГБ: ": "16",
+      "Оперативная память: ": "2 ГБ",
+      "Разрешение экрана: ": "1280x800"
+    },
+    "price": 492.49,
+    "year": 2016,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-5/wc250/6152190545.jpg",
+    "count": 1
+  },
+  {
+    "id": 423,
+    "brand": "Lenovo",
+    "category": "Tablet",
+    "title": " Планшет Lenovo Tab P11, 128GB, серый",
+    "description": {
+      "Диагональ экрана, дюймы: ": "11",
+      "Тип: ": "Планшет",
+      "Беспроводные интерфейсы: ": "Wi-Fi, Bluetooth",
+      "Встроенная память,  ГБ: ": "128",
+      "Оперативная память: ": "6 ГБ"
+    },
+    "price": 1208.24,
+    "year": 2019,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-0/wc250/6094679784.jpg",
+    "count": 14
+  },
+  {
+    "id": 424,
+    "brand": "Lenovo",
+    "category": "Tablet",
+    "title": " Планшет Lenovo Tab P11 Wi-Fi, 128GB, серый",
+    "description": {
+      "Диагональ экрана, дюймы: ": "11.0",
+      "Тип: ": "Планшет",
+      "Беспроводные интерфейсы: ": "Bluetooth, Wi-Fi",
+      "Встроенная память,  ГБ: ": "128",
+      "Оперативная память: ": "4 ГБ"
+    },
+    "price": 851.59,
+    "year": 2019,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-l/wc250/6043391217.jpg",
+    "count": 16
+  },
+  {
+    "id": 425,
+    "brand": "Lenovo",
+    "category": "Tablet",
+    "title": " Планшет Lenovo Tab M10 Wi-Fi, 32GB, серебристый",
+    "description": {
+      "Диагональ экрана, дюймы: ": "10.1",
+      "Тип: ": "Планшет",
+      "Беспроводные интерфейсы: ": "Bluetooth, Wi-Fi",
+      "Встроенная память,  ГБ: ": "32",
+      "Оперативная память: ": "2 ГБ"
+    },
+    "price": 512.73,
+    "year": 2016,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-k/wc250/6015968504.jpg",
+    "count": 12
+  },
+  {
+    "id": 426,
+    "brand": "Lenovo",
+    "category": "Tablet",
+    "title": " Планшет Lenovo Tab M7 LTE, 32GB, серый",
+    "description": {
+      "Диагональ экрана, дюймы: ": "7",
+      "Тип: ": "Планшет",
+      "Беспроводные интерфейсы: ": "Bluetooth, Wi-Fi",
+      "Встроенная память,  ГБ: ": "32",
+      "Оперативная память: ": "2 ГБ"
+    },
+    "price": 374.04,
+    "year": 2021,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-n/wc250/6019317155.jpg",
+    "count": 1
+  },
+  {
+    "id": 440,
+    "brand": "Lenovo",
+    "category": "Tablet",
+    "title": " Планшет Lenovo Tab P11 Wi-Fi, 128GB, серый",
+    "description": {
+      "Диагональ экрана, дюймы: ": "11",
+      "Тип: ": "Планшет",
+      "Беспроводные интерфейсы: ": "Bluetooth, Wi-Fi, GPS",
+      "Встроенная память,  ГБ: ": "128",
+      "Оперативная память: ": "6 ГБ"
+    },
+    "price": 1344.4,
+    "year": 2019,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-c/wc250/6181744284.jpg",
+    "count": 4
+  },
+  {
+    "id": 441,
+    "brand": "Lenovo",
+    "category": "Tablet",
+    "title": " Планшет Lenovo P11 Pro TB-J706L Bundle (ZA7D0066RU), 11.5\", 128GB, серый",
+    "description": {
+      "Диагональ экрана, дюймы: ": "11.5",
+      "Тип: ": "Планшет",
+      "Беспроводные интерфейсы: ": "Bluetooth, Wi-Fi",
+      "Встроенная память,  ГБ: ": "128",
+      "Оперативная память: ": "6 ГБ"
+    },
+    "price": 2190.7,
+    "year": 2016,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-6/wc250/6150976410.jpg",
+    "count": 4
+  },
+  {
+    "id": 442,
+    "brand": "Xiaomi",
+    "category": "Tablet",
+    "title": " Планшет Xiaomi Pad 5, 128GB, серый",
+    "description": {
+      "Диагональ экрана, дюймы: ": "11",
+      "Тип: ": "Планшет",
+      "Беспроводные интерфейсы: ": "Bluetooth, Wi-Fi",
+      "Встроенная память,  ГБ: ": "128",
+      "Оперативная память: ": "6 ГБ"
+    },
+    "price": 1608.91,
+    "year": 2019,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-0/wc250/6172756440.jpg",
+    "count": 12
+  },
+  {
+    "id": 465,
+    "brand": "Horizont",
+    "category": "TV",
+    "title": " Телевизор Horizont 32\"",
+    "description": {
+      "Диагональ экрана, дюймы: ": "32",
+      "Тип: ": "Телевизор",
+      "Разрешение: ": "1280×720 HD",
+      "Smart TV: ": "Нет",
+      "Тип подсветки: ": "Direct LED"
+    },
+    "price": 696.5,
+    "year": 2016,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-q/wc250/6213069662.jpg",
+    "count": 16
+  },
+  {
+    "id": 470,
+    "brand": "KIWI",
+    "category": "TV",
+    "title": " Телевизор KIVI 43U740LB 43\"",
+    "description": {
+      "Диагональ экрана, дюймы: ": "43",
+      "Тип: ": "Телевизор",
+      "Разрешение: ": "3840×2160 4K UHD",
+      "Тип подсветки: ": "Direct LED",
+      "Беспроводные интерфейсы: ": "Wi-Fi"
+    },
+    "price": 1814.72,
+    "year": 2021,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-w/wc250/6212814500.jpg",
+    "count": 1
+  },
+  {
+    "id": 471,
+    "brand": "Samsung",
+    "category": "TV",
+    "title": "4K UHD Телевизор Samsung UE43TU7090UXRU 43\"",
+    "description": {
+      "Диагональ экрана, дюймы: ": "43",
+      "Тип: ": "Телевизор",
+      "Разрешение: ": "3840×2160 4K UHD",
+      "Smart TV: ": "Да",
+      "Тип подсветки: ": "Direct LED"
+    },
+    "price": 1969.15,
+    "year": 2019,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-0/wc250/6023147856.jpg",
+    "count": 4
+  },
+  {
+    "id": 472,
+    "brand": "Samsung",
+    "category": "TV",
+    "title": " Телевизор Samsung 50\"",
+    "description": {
+      "Диагональ экрана, дюймы: ": "50",
+      "Тип: ": "Телевизор",
+      "Разрешение: ": "3840×2160 4K UHD",
+      "Smart TV: ": "Да",
+      "Тип подсветки: ": "Direct LED"
+    },
+    "price": 2608.13,
+    "year": 2019,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-w/wc250/6271462964.jpg",
+    "count": 12
+  },
+  {
+    "id": 473,
+    "brand": "Samsung",
+    "category": "TV",
+    "title": "4K UHD Телевизор Samsung UE43AU7540UXRU 43\"",
+    "description": {
+      "Тип: ": "Телевизор",
+      "Диагональ экрана, дюймы: ": "43",
+      "Разрешение: ": "3840×2160 4K UHD",
+      "Smart TV: ": "Да",
+      "Тип подсветки: ": "Edge LED"
+    },
+    "price": 1969.15,
+    "year": 2016,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-c/wc250/6064893432.jpg",
+    "count": 16
+  },
+  {
+    "id": 474,
+    "brand": "Samsung",
+    "category": "TV",
+    "title": "4K UHD Телевизор Samsung UE43AU8000UXRU 43\"",
+    "description": {
+      "Тип: ": "Телевизор",
+      "Диагональ экрана, дюймы: ": "43",
+      "Разрешение: ": "3840×2160 4K UHD",
+      "Smart TV: ": "Да",
+      "Тип подсветки: ": "Direct LED"
+    },
+    "price": 2384.49,
+    "year": 2021,
+    "currency": "BYN",
+    "img": "https://cdn1.ozone.ru/s3/multimedia-4/wc250/6068304352.jpg",
+    "count": 4
+  }
+]
